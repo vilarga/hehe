@@ -1,4 +1,4 @@
-<!especial>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -19,15 +19,15 @@
         }
         h2 {
             color: #e63946;
-            margin-top: 20px;
-            font-size: 18px;
-            padding: 0 10px; /* Adiciona espaçamento nas laterais */
+            margin-top: 10px; /* Diminuiu o espaçamento superior */
+            font-size: 16px; /* Diminuiu o tamanho da fonte */
+            padding: 0 5px; /* Diminuiu o espaçamento nas laterais */
             z-index: 5; /* Para garantir que o texto fique acima */
         }
         h1 {
             color: #e63946;
-            margin-top: 20px;
-            font-size: 28px; /* Aumenta o tamanho da fonte */
+            margin-top: 10px; /* Diminuiu o espaçamento superior */
+            font-size: 24px; /* Diminuiu o tamanho da fonte */
             z-index: 5; /* Para garantir que o texto fique acima */
         }
         img {
